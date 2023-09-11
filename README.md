@@ -1,2 +1,4 @@
 # Pollution-Locator
-Detect pollution hotspots
+Used DBSCAN clustering algorithm to analyze
+environmental data, such as AQI and water quality.
+Correspondingly detected pollution hotspots.
